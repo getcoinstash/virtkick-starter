@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/virtkick/virtkick-backend.git
+	url = https://github.com/shafiahmed/virtkick-backend.git
 [submodule "webapp"]
 	path = webapp
-	url = https://github.com/virtkick/virtkick-webapp.git
+	url = https://github.com/shafiahmed/virtkick-webapp.git
